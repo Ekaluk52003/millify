@@ -90,7 +90,7 @@ console.log(songname)
     <div className="App">
       <header className="App-header">
       <AmplifySignOut />
-    <h2>Millify</h2>
+    <h2>Millify 1</h2>
       </header>
       <div className="songList">
 
